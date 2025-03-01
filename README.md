@@ -1,24 +1,7 @@
-# Cookies
-
-GitHub provides a great deal of transparency regarding how we use your data, how we collect your data, and with whom we share your data. To that end, we provide this page which details how we use cookies.
-
-GitHub uses cookies to provide and secure our websites, as well as to analyze the usage of our websites, in order to offer you a great user experience. Please take a look at our [Privacy Statement](https://docs.github.com/en/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking-technologies) if you’d like more information about cookies, and on how and why we use them and cookie-related personal data. You can change your preference about non-essential cookies at any time by following [these instructions](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/managing-your-cookie-preferences-for-githubs-enterprise-marketing-pages).
-
-Since the number and names of cookies may change, the table below may be updated from time to time. When it is updated, the data of the repo will change. Follow [these instructions](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/about-notifications) to subscribe to changes in this repo.
-
-Provider of Cookie | Cookie Name | Description | Expiration*
------------------|-------------|-------------|------------
-GitHub | `app_manifest_token` | This cookie is used during the App Manifest flow to maintain the state of the flow during the redirect to fetch a user session. | Five minutes
-GitHub | `color_mode` | This cookie is used to indicate the user selected theme preference. | Session
-GitHub | `_device_id` | This cookie is used to track recognized devices for security purposes. | One year
-GitHub | `dotcom_user` | This cookie is used to signal to us that the user is already logged in. | One year
-GitHub | `enterprise_trial_redirect_to` | This cookie is used to complete a redirect for trial users | 5 minutes
-GitHub | `fileTreeExpanded` | Used to indicate whether the file tree on the code view was last expanded or collapsed | 30 days
 GitHub | `ghcc` | This cookie validates user's choice about cookies | 180 Days
 GitHub | `_gh_ent` | This cookie is used for temporary application and framework state between pages like what step the customer is on in a multiple step form. | Two weeks
 GitHub | `_gh_sess` | This cookie is used for temporary application and framework state between pages like what step the user is on in a multiple step form. | Session
-GitHub | `gist_oauth_csrf` | This cookie is set by Gist to ensure the user that started the oauth flow is the same user that completes it. | Deleted when oauth state is validated
-GitHub | `gist_user_session` | This cookie is used by Gist when running on a separate host. | Two weeks
+GitHub | `gist_oauth_csrfGitHub | `gist_user_session` | This cookie is used by Gist when running on a separate host. | Two weeks
 GitHub | `has_recent_activity` | This cookie is used to prevent showing the security interstitial to users that have visited the app recently. | One hour
 GitHub | `__Host-gist_user_session_same_site` | This cookie is set to ensure that browsers that support SameSite cookies can check to see if a request originates from GitHub. | Two weeks
 GitHub | `__Host-user_session_same_site` | This cookie is set to ensure that browsers that support SameSite cookies can check to see if a request originates from GitHub. | Two weeks
